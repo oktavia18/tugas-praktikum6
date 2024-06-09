@@ -71,8 +71,8 @@ CREATE TABLE Partisipasi ( IDKaryawan INT, IDProyek INT, FOREIGN KEY (IDKaryawan
 
 # ERD Karyawan
 
-<img [src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px"](https://drive.google.com/file/d/1pAwLqL3REEiWyWEdCD8Hw8ABp9wg5OMa/view?usp=drivesdk) >
+<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
 
-- [Link Laporan Praktikum](https://bit.ly/3JcCU5A)
+- [Link Laporan Praktikum](https://drive.google.com/file/d/1pAwLqL3REEiWyWEdCD8Hw8ABp9wg5OMa/view?usp=drivesdk)
 
-## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
+## SELESAI <img align="center" alt= height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt= height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
