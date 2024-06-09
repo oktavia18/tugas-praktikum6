@@ -71,7 +71,7 @@ CREATE TABLE Partisipasi ( IDKaryawan INT, IDProyek INT, FOREIGN KEY (IDKaryawan
 
 # ERD Karyawan
 
-[<img src=(https://drive.google.com/file/d/1pAwLqL3REEiWyWEdCD8Hw8ABp9wg5OMa/view?usp=drivesdk)]
+<img [src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px"](https://drive.google.com/file/d/1pAwLqL3REEiWyWEdCD8Hw8ABp9wg5OMa/view?usp=drivesdk) >
 
 - [Link Laporan Praktikum](https://bit.ly/3JcCU5A)
 
