@@ -25,6 +25,12 @@ Sebuah perusahaan ingin membuat sistem untuk pengeloalaan data karyawan pada per
 
 Buatlah desain databasenya (ER-Diagram), beserta tabel datanya ?
 
+# ERD 
+
+<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
+
+- [Link ER-Diagram Karyawan](https://drive.google.com/file/d/1pAwLqL3REEiWyWEdCD8Hw8ABp9wg5OMa/view?usp=drivesdk)
+
 # Tabel Departement
 
 # Di bawah ini merupakan perintah dan juga hasil yang di minta
@@ -69,10 +75,5 @@ CREATE TABLE Partisipasi ( IDKaryawan INT, IDProyek INT, FOREIGN KEY (IDKaryawan
 ````
 ![Screenshot 2024-06-09 140707](https://github.com/oktavia18/tugas-praktikum6/assets/147913672/8a9780af-be09-4234-a860-baebd916cf87)
 
-# ERD 
-
-<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
-
-- [Link ER-Diagram Karyawan](https://drive.google.com/file/d/1pAwLqL3REEiWyWEdCD8Hw8ABp9wg5OMa/view?usp=drivesdk)
 
 ## SELESAI 
